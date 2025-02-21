@@ -1,0 +1,24 @@
+body {
+    background-color: #09122C;
+    font-family: monospace;
+    color: #872341;
+    font-size: large;
+    text-align: center;
+}
+
+p {
+    color: #E17564;
+}
+
+td {
+    font-family: monospace;
+    text-align: center;
+}
+
+a {
+    color: #BE3144;
+}
+
+a, table {
+    margin: 0 auto;
+}
